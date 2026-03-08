@@ -72,7 +72,7 @@ public:
 ----------------------------
 --------------------------
 
-## 1980. Find Unique Binary String
+## 1980. Find Unique Binary String [leetcode](https://leetcode.com/problems/find-unique-binary-string/solutions/7633717/beginner-friendly-solution-how-to-approa-u6yf/?envType=daily-question&envId=2026-03-08)
 Medium
 Topics
 premium lock icon

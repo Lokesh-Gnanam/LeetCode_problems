@@ -36,7 +36,7 @@ Output: 1
 Explanation: Use the second operation on the second element to make s = "1010".
 
 
-```
+```cpp
 class Solution {
 public:
     int minFlips(string s) {
@@ -107,7 +107,7 @@ nums[i].length == n
 nums[i] is either '0' or '1'.
 All the strings of nums are unique.
 
-```
+```cpp
 class Solution {
 public:
     string findDifferentBinaryString(vector<string>& nums) {
@@ -193,7 +193,7 @@ Constraints:
 
 1 <= zero, one, limit <= 200
 
-```
+```cpp
 class Solution {
 public:
     int numberOfStableArrays(int zero, int one, int limit) {

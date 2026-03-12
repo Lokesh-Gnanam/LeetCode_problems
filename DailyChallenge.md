@@ -369,7 +369,7 @@ public:
 ------------------------------
 ------------------------------
 
-## 3600. Maximize Spanning Tree Stability with Upgrades
+## 3600. Maximize Spanning Tree Stability with Upgrades [leetcode](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/?envType=daily-question&envId=2026-03-12)
 Solved
 Hard
 Topics

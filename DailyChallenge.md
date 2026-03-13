@@ -548,7 +548,7 @@ class Solution {
 -----------------------------
 ------------------------------
  
- ## 3296. Minimum Number of Seconds to Make Mountain Height Zero
+ ## 3296. Minimum Number of Seconds to Make Mountain Height Zero [leetcode](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/solutions/7644480/solution-by-la_castille-k0q1/?envType=daily-question&envId=2026-03-13)
 Medium
 Topics
 premium lock icon

@@ -705,7 +705,7 @@ public:
 -------------------------------
 -------------------------------
 
-## 1622. Fancy Sequence
+## 1622. Fancy Sequence [leetcode](https://leetcode.com/problems/fancy-sequence/solutions/7649223/lazy-tranfomation-mod1097-valuestoredxmu-slfh/)
 Hard
 Topics
 premium lock icon

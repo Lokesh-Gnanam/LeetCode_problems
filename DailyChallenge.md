@@ -795,7 +795,7 @@ public:
 -------------------------------
 -------------------------------
 
-## 1878. Get Biggest Three Rhombus Sums in a Grid
+## 1878. Get Biggest Three Rhombus Sums in a Grid [leetcode](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/?envType=daily-question&envId=2026-03-16)
 Solved
 Medium
 Topics

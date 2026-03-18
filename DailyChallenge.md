@@ -1030,7 +1030,7 @@ public:
 -----------------------------
 -----------------------------
 
-## 1727. Largest Submatrix With Rearrangements
+## 1727. Largest Submatrix With Rearrangements [leetcode](https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/?envType=daily-question&envId=2026-03-17)
 Solved
 Medium
 Topics

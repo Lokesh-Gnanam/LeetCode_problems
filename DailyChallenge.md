@@ -974,7 +974,7 @@ public:
 ----------------------------------
 ----------------------------------
 
-## 3070. Count Submatrices with Top-Left Element and Sum Less Than k  [leetcode](https://leetcode.com/problems/largest-submatrix-with-rearrangements/?envType=daily-question&envId=2026-03-17)
+## 3070. Count Submatrices with Top-Left Element and Sum Less Than k  [leetcode](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/?envType=daily-question&envId=2026-03-18)
 Solved
 Medium
 Topics

@@ -1099,14 +1099,7 @@ public:
 ----------------------------------
 ----------------------------------
 
-## 
-Code
-
-
-Testcase
-Testcase
-Test Result
-3567. Minimum Absolute Difference in Sliding Submatrix
+## 3567. Minimum Absolute Difference in Sliding Submatrix [leetcode](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/?envType=daily-question&envId=2026-03-20)
 Solved
 Medium
 Topics
